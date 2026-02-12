@@ -1,13 +1,13 @@
 # Temperature Converter
 
-A simple temperature converter that converts values between Celsius, Fahrenheit, and Kelvin instantly.
+A simple temperature converter that converts values between Celsius and Fahrenheit instantly.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## About
 
 This is a web-based temperature converter built using HTML, CSS, and JavaScript.  
-Users can enter a temperature value and instantly convert it between Celsius, Fahrenheit, and Kelvin.  
+Users can enter a temperature value and instantly convert it between Celsius and Fahrenheit.  
 I built this project to practice working with user input, number calculations, and real-time UI updates using JavaScript.
 
 ## Built With
