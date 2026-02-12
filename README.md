@@ -2,7 +2,7 @@
 
 A simple temperature converter that converts values between Celsius and Fahrenheit instantly.
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## About
 
